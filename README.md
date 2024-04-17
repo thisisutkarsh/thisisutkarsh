@@ -1,15 +1,15 @@
-Hello There (Read in Obi wan's voice)![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-=====================================================================================================================================
+# Hello There (Read in Obi wan's voice)![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
 ## Utkarsh this side, Full Stack Developer with a knack for Front end.
 
---------------------
+---
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [Portfolio](http://www.crio.do/learn/portfolio/kr-utkarsh777/)
-* ✉️  You can contact me at [kr.utkarsh777@gmail.com](mailto:kr.utkarsh777@gmail.com)
-* 🚀  I'm currently working on [Babynama](http://Babynama.com)
-* 🧠  I'm learning Next 13
-* ⚡  I loveh cricket analysis, photography and crypto trading. Whose idea was it to create the Star Wars sequel trilogy 😤!
+- 🌍 I'm based in India
+- 🖥️ See my portfolio at [Portfolio](http://www.crio.do/learn/portfolio/kr-utkarsh777/)
+- ✉️ You can contact me at [kr.utkarsh777@gmail.com](mailto:kr.utkarsh777@gmail.com)
+- 🚀 I'm currently working on [Babynama](http://Babynama.com)
+- 🧠 I'm learning Spring Boot
+- ⚡ I loveh cricket analysis, photography and crypto trading. Whose idea was it to create the Star Wars sequel trilogy 😤!
 
 <br>
 <a href="https://www.github.com/thisisutkarsh" target="_blank" rel="noreferrer"><img
@@ -39,14 +39,33 @@ src="https://img.shields.io/github/followers/thisisutkarsh?logo=github&style=for
 ### My GitHub Stats
 
 
-<a href="http://www.github.com/thisisutkarsh"><img src="https://github-readme-stats.vercel.app/api?username=thisisutkarsh&show_icons=true&hide=contribs&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="thisisutkarsh's GitHub stats" /></a>
+<div align="left" width="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisutkarsh&show_icons=true&theme=onedark&locale=en&layout=compact" width="45%" alt="thisisutkarsh"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisisutkarsh&theme=dark" alt="thisisutkarsh" width="45%"/>
 
-<a href="http://www.github.com/thisisutkarsh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thisisutkarsh&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</div>
 
-<a href="https://github.com/thisisutkarsh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisutkarsh&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<!-- <span><a href="http://www.github.com/thisisutkarsh"><img src="https://github-readme-stats.vercel.app/api?username=thisisutkarsh&show_icons=true&hide=contribs&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="thisisutkarsh's GitHub stats" /></a></span> -->
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/thisisutkarsh/quora-juit" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thisisutkarsh&repo=quora-juit&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/thisisutkarsh/xmeet" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thisisutkarsh&repo=xmeet&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
+<div align="left">
+ <a href="https://github.com/thisisutkarsh/xmeet">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thisisutkarsh&repo=xmeet&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://github.com/thisisutkarsh/quora-juit">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thisisutkarsh&repo=quora-juit&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" style="margin-right: 10px;" />
+  </a>
 
-<div width="100%" align="center"><a href="https://github.com/thisisutkarsh/qmoney" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thisisutkarsh&repo=qmoney&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/thisisutkarsh/xnews-ai" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thisisutkarsh&repo=xnews-ai&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+</div>
+<br />
+<div align="left">
+  <a href="https://github.com/thisisutkarsh/qmoney">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thisisutkarsh&repo=qmoney&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" style="margin-right: 10px;" />
+  </a>
+  <a href="https://github.com/thisisutkarsh/xnews-ai">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thisisutkarsh&repo=xnews-ai&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+
