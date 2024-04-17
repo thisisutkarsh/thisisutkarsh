@@ -38,17 +38,16 @@ src="https://img.shields.io/github/followers/thisisutkarsh?logo=github&style=for
 
 ### My GitHub Stats
 
-
 <div align="left" width="100%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thisisutkarsh&theme=dark" alt="thisisutkarsh" width="45%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisutkarsh&show_icons=true&theme=onedark&locale=en&layout=compact" width="45%" alt="thisisutkarsh"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisisutkarsh&theme=dark" alt="thisisutkarsh" width="45%"/>
 
 </div>
-
+<br>
 
 <!-- <span><a href="http://www.github.com/thisisutkarsh"><img src="https://github-readme-stats.vercel.app/api?username=thisisutkarsh&show_icons=true&hide=contribs&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="thisisutkarsh's GitHub stats" /></a></span> -->
 
-<b>Top Repositories</b>
+### Top Repositories
 
 <div align="left">
  <a href="https://github.com/thisisutkarsh/xmeet">
@@ -57,7 +56,6 @@ src="https://img.shields.io/github/followers/thisisutkarsh?logo=github&style=for
   <a href="https://github.com/thisisutkarsh/quora-juit">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thisisutkarsh&repo=quora-juit&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" style="margin-right: 10px;" />
   </a>
-
 </div>
 <br />
 <div align="left">
@@ -68,4 +66,3 @@ src="https://img.shields.io/github/followers/thisisutkarsh?logo=github&style=for
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thisisutkarsh&repo=xnews-ai&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
-
